@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">iComplain</string>
+
+    <!-- Strings related to login -->
+    <string name="act_login_prompt_email">Email</string>
+    <string name="act_login_prompt_password">Password</string>
+    <string name="act_login_action_sign_in">Sign in</string>
+    <string name="act_login_action_sign_up">Sign up</string>
+
+    <!-- Strings related to signup -->
+    <string name="act_signup_prompt_name">Name</string>
+    <string name="act_signup_prompt_email">Email</string>
+    <string name="act_signup_prompt_password">Password</string>
+    <string name="act_signup_prompt_confirm_password">Confirm Password</string>
+    <string name="act_signup_prompt_phone">Phone number (Optional)</string>
+    <string name="act_signup_prompt_terms">I agree Terms and Conditions</string>
+    <string name="act_signup_action_submit">Sign up</string>
+
+    <!-- Strings related to home page -->
+    <string name="act_home_register_complaint">New Complaint</string>
+    <string name="act_home_view_complaint">View Complaints</string>
+
+    <!-- Strings related to menu side bar -->
+    <string name="act_menu_home">Home</string>
+
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_act_menu">actMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
